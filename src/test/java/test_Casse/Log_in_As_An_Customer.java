@@ -31,6 +31,7 @@ public class Log_in_As_An_Customer extends Base {
         	System.out.println("pass");
         else
         	System.out.println("fail");
+        System.out.println("update");
         //tearDown();
         
         
